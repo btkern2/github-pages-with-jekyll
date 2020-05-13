@@ -1,3 +1,4 @@
+theme: minima
 # Brandon's Banana Stand and Hannah's Green Grove
 
 ##Get yo Banana's and String of Banana's in one place
