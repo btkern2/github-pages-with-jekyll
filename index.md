@@ -1,6 +1,6 @@
-# Brandon's Banana Stand and Hannah's Green Grove
+#Brandon's Banana Stand and Hannah's Green Grove#
 
-###Get yo Banana's and String of Banana's in one place
+###Get yo Banana's and String of Banana's in one place###
 
 >This is my favorite place in the world
 >-Hannah Steele
